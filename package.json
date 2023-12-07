@@ -4,10 +4,13 @@
     "node": ">=4"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.1",
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
     "modernizr": "^3.7.1",
-    "popper.js": "^1.15.0"
+    "popper.js": "^1.15.0",
+    "slick-slider": "^1.8.2",
+    "surge": "^0.23.1"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
